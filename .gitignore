@@ -1,0 +1,9 @@
+# Power BI files to ignore
+*.pbit
+*.pbix.zip
+*.pbix.msl
+*.pbix.temp
+.DS_Store
+.Rproj
+.Rhistory
+.RData
